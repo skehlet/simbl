@@ -1,3 +1,6 @@
+Don't use this, albertz's is fine.
+=========================================
+
 SIMBL - SIMBL is the SIMple Bundle Loader
 =========================================
 
